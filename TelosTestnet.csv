@@ -29,3 +29,4 @@ TelosDAC,telosdacnode,149.28.231.187:9876,http://149.28.231.187:8888,p2p-peer-ad
 TelosGlobal,telosglobal1,node1.testnet.telosglobal.io:9876,node1.testnet.telosglobal.io:8888,p2p-peer-address = node1.testnet.telosglobal.io:9876,,
 TelosGlobal,telosglobal1,node2.testnet.telosglobal.io:9876,node2.testnet.telosglobal.io:8888,p2p-peer-address = node2.testnet.telosglobal.io:9876,,
 The Teloscope,theteloscope,testnet.theteloscope.io:19876,http://testnet.theteloscope.io:18888,p2p-peer-address = testnet.theteloscope.io:19876,,
+TelosGermany,telosgermany,p2p.testnet.telosgermany.io:9876,https://api.testnet.telosgermany.io:443,p2p-peer-address = p2p.testnet.telosgermany.io:9876,,
